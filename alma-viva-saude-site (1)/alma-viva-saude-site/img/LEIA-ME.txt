@@ -1,0 +1,5 @@
+hero.webp (foto de fundo do topo, tela cheia), sobre.webp e fisio.webp sao imagens ilustrativas geradas por IA.
+Substitua por fotos reais da clinica mantendo os mesmos nomes de arquivo.
+Para o topo use foto horizontal (16:9) de pelo menos 1920 px de largura; assim ela fica nítida em tela cheia.
+Fotos da equipe: preencha FOTOS.equipe no bloco CONFIGURACAO do index.html (ex.: "img/ana.jpg").
+Se um arquivo nao existir, o topo fica em degrade azul e as demais secoes mostram ilustracoes.
